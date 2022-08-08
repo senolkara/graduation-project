@@ -1,7 +1,6 @@
 package com.logobootcamp.adminpaymentservice.Dao.Payment;
 
 import com.logobootcamp.adminpaymentservice.Client.IAccountServiceClient;
-import com.logobootcamp.adminpaymentservice.Client.ITravelServiceClient;
 import com.logobootcamp.commonservice.Dto.LoggedUser.LoggedUserDto;
 import com.logobootcamp.commonservice.Dto.Payment.PaymentDto;
 import com.logobootcamp.commonservice.Needs.Enums.PaymentStatusType;
@@ -19,7 +18,6 @@ public class PostgresSQLPaymentDao implements IPaymentDao {
 
     private final IPaymentRepository iPaymentRepository;
     private final IAccountServiceClient iAccountServiceClient;
-    private final ITravelServiceClient iTravelServiceClient;
     private final ModelMapper modelMapper;
 
     /**
@@ -52,7 +50,6 @@ public class PostgresSQLPaymentDao implements IPaymentDao {
         Payment payment = this.iPaymentRepository
                 .findById(id)
                 .orElseThrow(() -> new GeneralException("payment not found with id: " + id));
-
         payment.setPaymentStatusType(PaymentStatusType.CANCELED);
         this.iPaymentRepository.save(payment);
     }
