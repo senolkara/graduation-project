@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account-service/account-service.iml" filepath="$PROJECT_DIR$/account-service/account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-services/admin-payment-service/admin-payment-service.iml" filepath="$PROJECT_DIR$/admin-services/admin-payment-service/admin-payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-services/admin-province-service/admin-province-service.iml" filepath="$PROJECT_DIR$/admin-services/admin-province-service/admin-province-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-services/admin-purchase-service/admin-purchase-service.iml" filepath="$PROJECT_DIR$/admin-services/admin-purchase-service/admin-purchase-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-services/admin-travel-service/admin-travel-service.iml" filepath="$PROJECT_DIR$/admin-services/admin-travel-service/admin-travel-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-services/admin-user-service/admin-user-service.iml" filepath="$PROJECT_DIR$/admin-services/admin-user-service/admin-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-service/common-service.iml" filepath="$PROJECT_DIR$/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/graduation-project.iml" filepath="$PROJECT_DIR$/.idea/graduation-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification-service/notification-service.iml" filepath="$PROJECT_DIR$/notification-service/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other-services/other-payment-service/other-payment-service.iml" filepath="$PROJECT_DIR$/other-services/other-payment-service/other-payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other-services/other-province-service/other-province-service.iml" filepath="$PROJECT_DIR$/other-services/other-province-service/other-province-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other-services/other-purchase-service/other-purchase-service.iml" filepath="$PROJECT_DIR$/other-services/other-purchase-service/other-purchase-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other-services/other-travel-service/other-travel-service.iml" filepath="$PROJECT_DIR$/other-services/other-travel-service/other-travel-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other-services/other-user-service/other-user-service.iml" filepath="$PROJECT_DIR$/other-services/other-user-service/other-user-service.iml" />
+    </modules>
+  </component>
+</project>

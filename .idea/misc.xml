@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/account-service/pom.xml" />
+        <option value="$PROJECT_DIR$/province-service/pom.xml" />
+        <option value="$PROJECT_DIR$/common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/purchase-service/pom.xml" />
+        <option value="$PROJECT_DIR$/payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-user-services/travel-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-user-services/other-travel-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-user-services/admin-travel-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-user-services/province-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-user-services/admin-province-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-user-services/other-purchase-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-user-services/other-payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-user-services/admin-payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-user-services/admin-purchase-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-user-services/other-province-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-services/admin-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-services/other-province-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-services/admin-payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-services/admin-province-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-services/admin-purchase-service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-services/admin-travel-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-services/other-payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-services/other-purchase-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-services/other-travel-service/pom.xml" />
+        <option value="$PROJECT_DIR$/other-services/other-user-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

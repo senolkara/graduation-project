@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/account-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-payment-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-province-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-province-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-purchase-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-purchase-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-travel-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-travel-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-services/admin-user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notification-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-payment-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-province-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-province-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-purchase-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-purchase-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-travel-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-travel-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/other-user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/travel-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/other-services/travel-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travel-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/travel-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
